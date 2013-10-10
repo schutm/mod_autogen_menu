@@ -1,12 +1,13 @@
 <?php
 /**
-* @version		mod_dynamic_menu
-* @package		Joomla
-* @copyright	Copyright (C) 2008 Jan Zikmund - info@janzikmund.cz
-* @license		GNU/GPL, see LICENSE.php
-* created using source codes of mod_placeHere by Eike Pierstorff eike@diebesteallerzeiten.de - thanks !
+* @version      mod_dynamic_menu
+* @package      Joomla
+* @copyright    Copyright (C) 2008 Jan Zikmund - info@janzikmund.cz
+* @license      GNU/GPL, see LICENSE.php
+* created using source codes of mod_placeHere by Eike Pierstorff
+* eike@diebesteallerzeiten.de - thanks !
 *
-* File last changed 26.05.2007
+* File last changed 18.11.2011
 */
 
 // no direct access
@@ -25,6 +26,4 @@ elseif ($artfunction == 'hidden')
 $layout = JModuleHelper::getLayoutPath('mod_autgen_menu');
 
 require($layout);
-
-
 ?>
