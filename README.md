@@ -12,13 +12,16 @@ files.
 Acknowledgements
 ----------------
 The original version was written by Jan Zikmund and is located at
-http://blog.janzikmund.cz/mod_autgen.
+http://blog.janzikmund.cz/mod_autgen. I adjusted it late 2011 to be able to use it with
+Joomla! 1.6. 
 
 
 Contributing
 ------------
-I do not maintain this module. A log of clean up needs to be done on the code, if you
-like to do this or want to maintain the code, please fork or create a pull-request.
+I do not use Joomla! Additionally I do not support the way the code has been written
+(code layout, duplication of code, etc.), therefor I do not maintain this module. A log
+of clean up needs to be done on the code, if you like to do this or want to maintain
+the code, please fork or create a pull-request.
 
 
 License
