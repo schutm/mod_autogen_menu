@@ -1,3 +1,7 @@
+Canonical source
+================
+The (non-maintained) canonical source of mod_autogen_menu is hosted on [gitlab.com](https://gitlab.com/schutm/mod_autogen_menu).
+
 mod_autogen_menu
 ================
 The main purpose of the mod is to generate a menu contents automatically, by displaying
